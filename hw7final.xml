@@ -13,3 +13,19 @@
 	<capital>Salem</capital>
   </state>
 </states>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<e:states xmlns="http://www.gov.org/east">
+  <e:state>
+    <e:name>Florida</e:name>
+	<e:capital>Tallahassee</e:capital>
+  </e:state>
+  <e:state>  
+	<e:name>Maryland</e:name>
+	<e:capital>Annapolis</e:capital>
+  </e:state>
+  <e:state>
+	<e:name>North Carolina</e:name>
+	<e:capital>Raleigh</e:capital>
+  </e:state>
+</e:states>
